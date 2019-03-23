@@ -9,7 +9,13 @@ sdsdsdsds
 dev 
 
 
+<<<<<<< HEAD
 dev2 commit
 
 
 dsdfdfdfdfdfd
+=======
+
+master commit
+dev2 commit
+>>>>>>> master
